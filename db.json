@@ -1,0 +1,42 @@
+{
+  {
+    "id": 1,
+    "children": [2,3],
+    "active": false
+  },
+  {
+    "id": 2,
+    "children": [4],
+    "active": false
+  },
+  {
+    "id": 3,
+    "children": [5,6,7],
+    "active": true
+  },
+  {
+    "id": 4,
+    "children": [],
+    "active": true
+  },
+  {
+    "id": 5,
+    "children": [],
+    "active": false
+  },
+  {
+    "id": 6,
+    "children": [],
+    "active": false
+  },
+  {
+    "id": 7,
+    "children": [8],
+    "active": false
+  },
+  {
+    "id": 8,
+    "children": [],
+    "active": false
+  }
+}
