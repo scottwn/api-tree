@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "children": [2,3],
@@ -39,4 +39,4 @@
     "children": [],
     "active": false
   }
-}
+]
