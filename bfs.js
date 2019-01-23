@@ -25,4 +25,4 @@ async function printOutput() {
   console.log(output);
 }
 
-exports.printOutput = printOutput;
+printOutput();
