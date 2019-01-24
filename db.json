@@ -13,17 +13,17 @@
     {
       "id": 3,
       "children": [5, 6, 7],
-      "active": true
+      "active": false
     },
     {
       "id": 4,
       "children": [],
-      "active": true
+      "active": false
     },
     {
       "id": 5,
       "children": [],
-      "active": false
+      "active": true
     },
     {
       "id": 6,
@@ -33,7 +33,7 @@
     {
       "id": 7,
       "children": [8],
-      "active": false
+      "active": true
     },
     {
       "id": 8,
