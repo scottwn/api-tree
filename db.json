@@ -13,12 +13,12 @@
     {
       "id": 3,
       "children": [5, 6, 7],
-      "active": false
+      "active": true
     },
     {
       "id": 4,
       "children": [],
-      "active": false
+      "active": true
     },
     {
       "id": 5,
