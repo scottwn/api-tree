@@ -17,6 +17,11 @@
     },
     {
       "id": 4,
+      "children": [10],
+      "active": false
+    },
+    {
+      "id": 10,
       "children": [],
       "active": true
     },
@@ -33,7 +38,7 @@
     {
       "id": 7,
       "children": [8],
-      "active": true
+      "active": false
     },
     {
       "id": 8,
